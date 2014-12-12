@@ -30,11 +30,10 @@ This work is published from:
 </p>
 
 ## Who Are We?
-- Matt Cleinman 
-- Majda Rahal
-Both students at Carnegie Mellon University, we worked on getting this data together as part of a project for the Technology for International Development class. More info can be found here[2].
+Matt Cleinman & Majda Rahal, both students at Carnegie Mellon University. We worked on getting this data together as part of a project for the Technology for International Development class. More info can be found here[2].
 
 [1] http://etusa.dz/spip.php?article29
+<br />
 [2] http://t4id.wikispaces.com/Algiers+Transit+Data
 
 --------------------------------------------------------------------
