@@ -1,0 +1,2 @@
+agency_id, agency_name,agency_url,agency_timezone,agency_phone,agency_lang, agency_fare_url
+ETUSA,Etablissement des Transports Urbains et Sub-urbains d'Alger,http://www.etusa.dz,Africa/Algiers,+213(0)21 664468,fr,http://www.etusa.dz/spip.php?article33

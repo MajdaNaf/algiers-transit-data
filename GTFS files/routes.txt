@@ -1,0 +1,133 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type
+38a,ETUSA,38,8 Mai 45 - Zegrhara,3
+38b,ETUSA,38,Zegrhara - 8 Mai 45,3
+71a,ETUSA,71,Cite Zerhouni Mokhtar - Bordj El Kiffane,3
+71b,ETUSA,71,Bordj El Kiffane - Cite Zerhouni Mokhtar,3
+21a,ETUSA,21,Bouzareah - Sidi Youcef,3
+21b,ETUSA,21,Sidi Youcef - Bouzareah,3
+43a,ETUSA,43,Ben Aknoun - Grande Poste,3
+43b,ETUSA,43,Grande Poste - Ben Aknoun,3
+44a,ETUSA,44,1er Mai - Draria,3
+44b,ETUSA,44,Douera - 1er Mai,3
+50a,ETUSA,50,Ben Aknoun - 8 Mai 45,3
+50b,ETUSA,50,8 Mai 45 - Ben Aknoun,3
+56a,ETUSA,56,Chevalier - Zeralda,3
+56b,ETUSA,56,Zeralda - Chevalier,3
+57a,ETUSA,57,Ouled Fayet - Grande Poste,3
+57b,ETUSA,57,Grande Poste - Ouled Fayet,3
+59a,ETUSA,59,Sidi Youcef - Chevalier,3
+59b,ETUSA,59,Chevalier - Sidi Youcef,3
+63a,ETUSA,63,Chevalier - Bir Mourad Rais,3
+63b,ETUSA,63,Bir Mourad Rais - Chevalier,3
+4a,ETUSA,4,1er Mai- Ben Omar,3
+4b,ETUSA,4,Ben Omar - 1er Mai,3
+7a,ETUSA,7,1er Mai - 8 Mai 45,3
+7b,ETUSA,7,8 Mai 45 - 1er Mai,3
+10a,ETUSA,10,1er Mai - Bouzereah,3
+10b,ETUSA,10,Bouzereah - 1er Mai,3
+14a,ETUSA,14,1er Mai - Bir Mourad Rais,3
+14b,ETUSA,14,Bir Mourad Rais - 1er Mai,3
+15a,ETUSA,15,1er Mai - Grande Poste,3
+15b,ETUSA,15,Grande Poste - 1er Mai,3
+16a,ETUSA,16,1er Mai - Madania,3
+16b,ETUSA,16,Madania - 1er Mai,3
+27a,ETUSA,27,1er Mai - Palais De La Culture,3
+27b,ETUSA,27,Palais De La Culture - 1er Mai,3
+34a,ETUSA,34,1er Mai - Birkhadem,3
+34b,ETUSA,34,Birkhadem - 1er Mai,3
+48a,ETUSA,48,1er Mai - Ben Aknoun,3
+48b,ETUSA,48,Ben Aknoun - 1er Mai,3
+65a,ETUSA,65,1er Mai - Madania,3
+65b,ETUSA,65,Madania - 1er Mai ,3
+79a,ETUSA,79,1er Mai - Ain Naaja,3
+79b,ETUSA,79,Ain Naaja - 1er Mai,3
+88a,ETUSA,88,1er Mai - Hydra,3
+88b,ETUSA,88,Hydra - 1er Mai,3
+89a,ETUSA,89,1er Mai - Vieux Kouba,3
+89b,ETUSA,89,Vieux Kouba - 1er Mai,3
+90a,ETUSA,90,1er Mai - Basta Ali,3
+90b,ETUSA,90,Basta Ali - 1er Mai,3
+99a,ETUSA,99,1er Mai - Ain Beniane,3
+99b,ETUSA,99,Ain Beniane - 1er Mai,3
+119a,ETUSA,119,1er Mai - Safex (Ocasionnelle !!!),3
+119b,ETUSA,119,Safex - 1er Mai,3
+1a,ETUSA,1,El Harrach - 1er Mai,3
+1b,ETUSA,1,1er Mai - El Harrach,3
+5a,ETUSA,5,El Harrach - 8 Mai 45,3
+5b,ETUSA,5,8 Mai 45 - El Harrach,3
+106a,ETUSA,106,El Harrach - Djemhouria,3
+106b,ETUSA,106,Djemhouria - El Harrach ,3
+113a,ETUSA,113,Gare Routiere - 8 Mai 45,3
+113b,ETUSA,113,8 Mai 45 - Gare Routiere,3
+118a,ETUSA,118,Station Multi C5Jui Bab Ezzouar - Rouiba,3
+118b,ETUSA,118,Rouiba - Station Multi C5Jui Bab Ezzouar,3
+19a,ETUSA,19,1er Mai - Bab Ezzouar,3
+19b,ETUSA,19,Bab Ezzouar - 1er Mai ,3
+70a,ETUSA,70,El Harach - Ecalyptus,3
+70b,ETUSA,70,Ecalyptus - El Harach,3
+72a,ETUSA,72,8 Mai 45 - Rouiba,3
+72b,ETUSA,72,Rouiba - 8 Mai 45,3
+94a,ETUSA,94,1er Mai - 8 Mai 45,3
+94b,ETUSA,94,8 Mai 45 - 1er Mai,3
+98a,ETUSA,98,Ferhani - 5 Juillet,3
+98b,ETUSA,98,5 Juillet - Ferhani,3
+117a,ETUSA,117,Station Multi C5Jui Bez - Dar El Beida,3
+117b,ETUSA,117,Dar El Beida - Station Multi C5Jui Bez,3
+68a,ETUSA,68,Sm - Aeroport,3
+68b,ETUSA,68,Aeroport - Sm,3
+31a,ETUSA,31,Audin - Hydra,3
+31b,ETUSA,31,Hydra - Audin,3
+32a,ETUSA,32,Audin - Madania,3
+32b,ETUSA,32,Madania - Audin,3
+33a,ETUSA,33,Audin - Bir Mourad Rais,3
+33b,ETUSA,33,Bir Mourad Rais - Audin,3
+35a,ETUSA,35,Audin - Birkhadem,3
+35b,ETUSA,35,Birkhadem - Audin,3
+36a,ETUSA,36,Basta - Palais du Peuple,3
+36b,ETUSA,36,Palais du Peuple - Basta,3
+37a,ETUSA,37,Grande Poste - Oued Koriche,3
+37b,ETUSA,37,Oued Koriche - Grande Poste,3
+40a,ETUSA,40,Audin - Chevalier,3
+40b,ETUSA,40,Chevalier - Audin,3
+54a,ETUSA,54,Audin - El Mouradia,3
+54b,ETUSA,54,Moradia - Audin,3
+2a,ETUSA,2,8 Mai 45 - El Anasser,3
+2b,ETUSA,2,El Anasser - 8 Mai 45,3
+6a,ETUSA,6,8 Mai 45 - Vieux Kouba,3
+6b,ETUSA,6,Vieux Kouba - 8 Mai 45,3
+100a,ETUSA,100,8 Mai 45 - Aeroport,3
+100b,ETUSA,100,Aeroport - 8 Mai 45,3
+101a,ETUSA,101,8 Mai 45 - Birtouta,3
+101b,ETUSA,101,Birtouta - 8 Mai 45,3
+12a,ETUSA,12,8 Mai 45 - Staouali,3
+12b,ETUSA,12,Staouali - 8 Mai 45,3
+45a,ETUSA,45,8 Mai 45 - Bouzereah,3
+45b,ETUSA,45,Bouzereah - 8 Mai 45,3
+46a,ETUSA,46,8 Mai 45 - Tarek Ibn Ziad,3
+46b,ETUSA,46,Tarek Ibn Ziad - 8 Mai 45,3
+58a,ETUSA,58,8 Mai 45 - Chevaley,3
+58b,ETUSA,58,Chevaley - 8 Mai 45,3
+92a,ETUSA,92,Basta - Anasser,3
+92b,ETUSA,92,Anasser - Basta,3
+222a,ETUSA,222,Chevalier - Sidi Fedj,3
+222b,ETUSA,222,Sidi Fedj - Chevalier,3
+105a,ETUSA,105,Badjarah - Baraki,3
+105b,ETUSA,105,Baraki - Badjarah,3
+18a,ETUSA,18,Hai El Badr - Vieux Kouba,3
+18b,ETUSA,18,Vieux Kouba - Hai El Badr,3
+26a,ETUSA,26,Badjarah - 1er Mai,3
+26b,ETUSA,26,1er Mai - Badjarah,3
+28a,ETUSA,28,Hai El Badr - El Harache,3
+28b,ETUSA,28,El Harache - Hai El Badr ,3
+66a,ETUSA,66,Badjarah - 1er Mai,3
+66b,ETUSA,66,1er Mai - Badjarah,3
+67a,ETUSA,67,Hai El Badr - Baraki,3
+67b,ETUSA,67,Baraki - Hai El Badr,3
+74a,ETUSA,74,Badjarah - 8 Mai 45,3
+74b,ETUSA,74,8 Mai 45 - Badjarah,3
+81a,ETUSA,81,Hai El Badr - Ain Naadja,3
+81b,ETUSA,81,Ain Naadja - Hai El Badr,3
+82a,ETUSA,82,Badjarah - Ain Naadja,3
+82b,ETUSA,82,Ain Naadja - Badjarah,3
+96a,ETUSA,96,Hai El Badr - Birkhadem,3
+96b,ETUSA,96,Birkhadem - Hai El Badr,3
